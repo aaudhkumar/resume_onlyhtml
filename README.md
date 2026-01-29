@@ -1,4 +1,4 @@
-# This a an assignment given dusring the cohort of web development of chaicode 2026 
+# This a an assignment given during the cohort of web development of chaicode 2026 
 
 <a href="https://resumeonlyhtml1.vercel.app/">My Project Link</a>
 
